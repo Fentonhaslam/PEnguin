@@ -23,3 +23,10 @@ Things you may want to cover:
 
 * ...
 # PEnguin
+
+User stories: 
+```
+As a user
+I'd like to create a profile on PEnguin
+So I can input my email and password and sign up
+```
